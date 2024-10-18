@@ -4,7 +4,7 @@ At present, I'm using C# and JavaScript to make websites. 🕺🏽
 
 **I mostly use these technologies**
 
-<div display="flex">
+<div style="display: flex; align-items: stretch" >
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Python"/>
