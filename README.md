@@ -2,7 +2,7 @@
 
 At present, I'm using C# and JavaScript to make websites. 🕺🏽
 
-**I mostly use with these technologies**
+**I mostly use these technologies**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
@@ -15,7 +15,7 @@ At present, I'm using C# and JavaScript to make websites. 🕺🏽
 ### 🔭 I’m working on
 
 - Job-related projects built with ASP.NET and HTML/CSS/JS.
-- Side projects built with the above and also Python .
+- Side projects built with the above and also Python, Docker and React.
 
 ### 🌱 I’m learning
 
@@ -36,6 +36,8 @@ At present, I'm using C# and JavaScript to make websites. 🕺🏽
 ### ⚡ Fun fact
 
 I'm definitely not a committed Rustacean.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerier)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Qwerier/Qwerier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
