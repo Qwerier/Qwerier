@@ -1,6 +1,6 @@
 ## Description
 
-At present, I'm using C# and JavaScript to make websites. 🕺🏽
+At present, I'm using C# and JavaScript to make websites.
 
 **I mostly use these technologies**
 
@@ -32,10 +32,6 @@ At present, I'm using C# and JavaScript to make websites. 🕺🏽
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
-### ⚡ Fun fact
-
-I'm definitely not a committed Rustacean.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerier)](https://github.com/anuraghazra/github-readme-stats)
 
