@@ -4,12 +4,12 @@ At present, I'm using C# and React to make websites.
 
 **I mostly use these technologies**
 
-<div style="display: flex; align-items: stretch" >
-  <img height="25px" src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#"/>
-  <img height="25px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img height="25px" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" alt="JavaScript"/>
-  <img height="25px" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img height="25px" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+<div style="display: flex; align-items: center; gap: 5px; " >
+<img src="https://custom-icon-badges.demolab.com/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://custom-icon-badges.demolab.com/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+<img src="https://custom-icon-badges.demolab.com/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://custom-icon-badges.demolab.com/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" alt="Docker" />
 </div>
 
 ### 🔭 I’m working on
@@ -19,10 +19,12 @@ At present, I'm using C# and React to make websites.
 
 ### 🌱 I’m learning
 
-<div display="flex">
-  <img height="25px" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes"/>
-  <img height="25px" src="https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white" alt="Rust"/>
-  <img height="25px" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"/>
+<div style="display: flex; align-items: center; gap: 5px; ">
+<img src="https://custom-icon-badges.demolab.com/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+
+  <img src="https://custom-icon-badges.demolab.com/badge/Rust-CE412B?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+
+<img src="https://custom-icon-badges.demolab.com/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
 ### 📫 How to reach me
