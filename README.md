@@ -35,7 +35,7 @@ At present, I'm using C# and React to make websites.
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerier&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qwerier&theme=radical)
 
 <!--
 **Qwerier/Qwerier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
